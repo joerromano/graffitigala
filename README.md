@@ -8,4 +8,5 @@ A hack from Hack@Brown 2018.
 
 # Notes
 * Based off of Google's "graffiti" demo for WebAR.
-* See [Medium](#) for a quick article on how we made it, acknowledgements, etc.
+* See [Medium](https://medium.com/@joerromano/how-we-built-graffitigala-collaborative-augmented-reality-graffiti-d2e40195daa0) for a quick article on how we made it, acknowledgements, etc.
+* Questions? Tweet [@joerromano](https://www.twitter.com/joerromano).
